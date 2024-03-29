@@ -1,0 +1,8 @@
+{
+  "name": "hengou-tinymce-all-in-one",
+  "version": "1.0.0",
+  "description": "Build all tinymce plugins into one js",
+  "author": "Nicholas <mihuu@foxmail.com>",
+  "license": "MIT",
+  "main": "tinymce.min.js"
+}
